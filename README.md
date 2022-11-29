@@ -1,7 +1,7 @@
 ### Olá 👋
 
 # Biografia
-
+Meu nome é Karol
 Começando a jornada dev com experiência em front-end e python.
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
