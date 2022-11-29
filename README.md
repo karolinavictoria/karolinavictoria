@@ -11,4 +11,4 @@ Meu nome é Karol estou começando a jornada dev com experiência em front-end e
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karolinavictoria&repo=karolinavictoria.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karolinavictoria&repo=karolinavictoria.github.io)](https://github.com/karolinavictoria/github-readme-stats)
